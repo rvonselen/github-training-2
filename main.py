@@ -11,3 +11,6 @@ def fibonacci(n):
         i += 1
     return string
 print(fibonacci(15))
+
+def add(a,b): #vermenigvuldigen
+    return a + b
