@@ -14,3 +14,6 @@ print(fibonacci(15))
 
 def add(a,b): #vermenigvuldigen
     return a + b
+
+def div(a,b): 
+    return a/b
