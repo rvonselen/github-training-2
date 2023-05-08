@@ -15,3 +15,10 @@ print(fibonacci(15))
 
 def(subtract):
     (a-b)
+
+def add(a,b): #vermenigvuldigen
+    return a + b
+
+def div(a,b): 
+    return a/b
+
